@@ -1,7 +1,7 @@
 module.exports = {
 run: function(message) {
-	if (message.content == "joy") {
-		message.react("😄");
+	if (message.content == "joker") {
+		message.react("🃏");
 	}
 	
 	if (message.content == "ping") {
