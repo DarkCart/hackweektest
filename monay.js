@@ -4,7 +4,7 @@ run: function(message) {
 		message.react("♥️");
 	}
 	
-	if (message.conent == "ping") {
+	if (message.content == "ping") {
 		message.channel.send("pong");
 	}
 }
