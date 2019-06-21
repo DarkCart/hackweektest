@@ -2,6 +2,7 @@ test repo for discord hackweek stuff
 
 jon lemon
 
+<<<<<<< HEAD
 Way back when I was just a little bitty boy,Living in a box under the stairs in the corner of the basement of the house Half a block down the street from Jerry's Bait shop, You know the place.
 Well, anyway, back then life was going swell and everything was just peachy!, Except, of course, for the undeniable fact that every single morning, My mother would make me a big ol' bowl of sauerkraut for breakfast.
 
@@ -107,3 +108,6 @@ Albuquerque, Albuquerque, Albuquerque, Albuquerque, Albuquerque, Albuquerque, Al
 Albuquerque, Albuquerque, Albuquerque, Albuquerque.
 
 Aaaaaaaaaaaal...buquerqueeeeee!
+=======
+(testing from desktop)
+>>>>>>> f939ab04dcaffab3615c8c653a5bb91f44b68450
