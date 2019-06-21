@@ -1,10 +1,10 @@
 module.exports = {
 run: function(message) {
-	if (message.content == "hearts") {
-		message.react("♥️");
+	if (message.content == "joker") {
+		message.react("🃏");
 	}
 	
-	if (message.conent == "ping") {
+	if (message.content == "ping") {
 		message.channel.send("pong");
 	}
 }
